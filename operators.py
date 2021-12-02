@@ -73,7 +73,7 @@ print('not x is',not x)
 # print(a/b)
 
 # print(a%b)
-# print(a//b)
-# print(a**b)
-# '''
+# print(a//b) does integer division
+# print(a**b) exponentiation
+# ''' for mutliple line comments
 

@@ -10,11 +10,14 @@ print(marks)
 # squares = {1: 1, 3: 9, 5: 25, 7: 49, 9: 81}
 # for i in squares:
 #     print(i, squares[i])
+# have unique  element
+#overwrite the value similar to map in cpp
 
 
 
 
-
+#import math
+#dir(math) gives all functions of math module
 
 
 

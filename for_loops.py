@@ -1,5 +1,5 @@
 # for x in range(10):
-# 	print(2*x, end=", ")
+# 	print(2*x, end=", ")  we can define how we want end statment of the print scenario
 
 # a = ['Anuj', 'Rohit', 'Shivam']
 

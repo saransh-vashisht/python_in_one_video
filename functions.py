@@ -9,14 +9,21 @@ greetings(names)
 
 
 
+""" 
+def swap(num1,num2):
+	temp=num1
+	num1=num2
+	num2=temp
+	
 
 
 
+a=4
+b=7
+swap(a,b)
+print(a,b)
 
-
-
-
-
+"""
 
 
 
@@ -56,7 +63,7 @@ greetings(names)
 
 
 
-# def greet(name, dish="Pasta"):
+# def greet(name, dish="Pasta"): can assign by default dish so it not compulsory now
 # 	print('Good Morning,', name)
 # 	print('Please eat', dish)
 
@@ -67,8 +74,10 @@ greetings(names)
 
 
 
+#def greet(): 
+#	print('Good Morning, anuj')
 
-
+#greet()
 
 
 

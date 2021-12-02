@@ -21,9 +21,9 @@ print('average marks are', average_marks)
 
 
 
-# a = int(input('Enter a\n'))
+# a = int(input('Enter a\n')) can use it as argument to print while asking for input
 # b = int(input('Enter b\n'))
-
+# a= input()
 # # print(type(a))
 # # print(type(b))
 
